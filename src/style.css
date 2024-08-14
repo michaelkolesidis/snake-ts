@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgb(125, 163, 83);
+  font-family: 'Snake', sans-serif;
+}
+
+img {
+  width: 175px;
+  margin-bottom: 10px;
+}
+
+canvas {
+  border: 4px solid rgb(26, 26, 26);
+}
